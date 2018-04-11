@@ -13,6 +13,6 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   console.log('hello')('HELLO')
   
-  return ("I can't hear you")("YES INDEED!")
+  return ("I can't hear you")("YES INDEED!");
   
 }
